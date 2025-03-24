@@ -22,9 +22,7 @@ cd task-manager
 
 ```javascript
 bash
-
 php -S localhost:8000
-
 Откройте браузер и перейдите по адресу: http://localhost:8000
 ```
 
