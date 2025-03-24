@@ -8,20 +8,25 @@
 
 Установка
 Склонируйте репозиторий:
-bash
 
+```javascript
+bash
 git clone https://github.com/your-username/task-manager.git
 cd task-manager
+```
 
 Убедитесь, что директория доступна для записи (например, chmod 777 . на Linux).
 
 Запустите встроенный сервер PHP:
+
+
+```javascript
 bash
 
 php -S localhost:8000
 
 Откройте браузер и перейдите по адресу: http://localhost:8000
-
+```
 
 Использование
 На главной странице вы увидите форму для добавления задачи:
